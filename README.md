@@ -13,7 +13,7 @@ Similar repo https://github.com/SuperTails/riscvcraft but with rv32ima. This aut
 
 # Quick Start
 ### Eliza in Minecraft
-Download the datapack from https://storage.jawbts.org/datapack/eliza%40riscvmc-3.0.0.zip and follow the instructions below, start from 'Running the program'.  
+Download the datapack from https://storage.jawbts.org/datapack/eliza%40riscvmc-v3.0.0.zip and follow the instructions below, start from 'Running the program'.  
 This datapack uses a recreation of Eliza, which origins in https://github.com/anthay/ELIZA/blob/master/src/eliza.cpp.
 
 # Usage

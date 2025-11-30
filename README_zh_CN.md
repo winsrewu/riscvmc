@@ -11,9 +11,9 @@
 当解码表缓存命中时平均 **1.1k** 命令 (Command) 每指令 (Instruction)。
 其他情况下平均 5k 命令每指令。
 
-# 快速开始
+# 快速开始v
 ### 在《我的世界》中使用Eliza
-请从 https://storage.jawbts.org/datapack/eliza%40riscvmc-3.0.0.zip 下载数据包，并按照以下说明操作，从“运行程序”步骤开始。  
+请从 https://storage.jawbts.org/datapack/eliza%40riscvmc-v3.0.0.zip 下载数据包，并按照以下说明操作，从“运行程序”步骤开始。  
 该数据包使用了Eliza的复刻版本，其原始代码源自 https://github.com/anthay/ELIZA/blob/master/src/eliza.cpp 。
 
 # 使用方法
