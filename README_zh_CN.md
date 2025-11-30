@@ -1,6 +1,6 @@
 [English](README.md) | 简体中文 
 
-# riscv-mc
+# riscvmc
 这是一个为 Minecraft 设计的 RISC-V 指令集模拟器数据包（Datapack）。  
 它支持完整的 RV32I 指令集，**但不包括 CSR 指令**。  
 本数据包使用 [MC-Build](https://mcbuild.dev) 构建。  

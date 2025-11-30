@@ -1,6 +1,6 @@
 English | [简体中文](README_zh_CN.md)  
 
-# riscv-mc
+# riscvmc
 This datapack provides a RISC-V emulator for Minecraft.
 It supports RV32I instruction sets, except for csr instructions.  
 This datapack is built using https://mcbuild.dev.  
