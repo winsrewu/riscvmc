@@ -13,7 +13,11 @@ Similar repo https://github.com/SuperTails/riscvcraft but with rv32ima. This aut
 
 # Quick Start
 ### Eliza in Minecraft
-Download the datapack from https://storage.jawbts.org/datapack/eliza%40riscvmc-v3.0.0.zip and follow the instructions below, start from 'Running the program'.  
+Download the datapack from https://storage.jawbts.org/datapack/eliza%40riscvmc-v3.0.0.zip and follow the instructions below, start from '[Running the program](#running-the-program)'.  
+How to summon the terminal and use the keyboard? Please refer to the '[Recommended Usage](#recommended-usage)' section.  
+The app.mcfunction and decode_map.mcfunction are located in ```loader:app``` and ```loader:decode_map```.  
+
+
 This datapack uses a recreation of Eliza, which origins in https://github.com/anthay/ELIZA/blob/master/src/eliza.cpp.
 
 # Usage

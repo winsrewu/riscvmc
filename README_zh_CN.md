@@ -13,8 +13,13 @@
 
 # 快速开始v
 ### 在《我的世界》中使用Eliza
-请从 https://storage.jawbts.org/datapack/eliza%40riscvmc-v3.0.0.zip 下载数据包，并按照以下说明操作，从“运行程序”步骤开始。  
-该数据包使用了Eliza的复刻版本，其原始代码源自 https://github.com/anthay/ELIZA/blob/master/src/eliza.cpp 。
+请从 https://storage.jawbts.org/datapack/eliza%40riscvmc-v3.0.0.zip 下载数据包，并按照以下说明操作，从「[运行程序](#运行程序)」步骤开始。
+
+如何召唤终端并使用键盘？请参考「[推荐用法](#推荐用法)」部分。
+
+`app.mcfunction` 和 `decode_map.mcfunction` 文件位于 ```loader:app``` 和 ```loader:decode_map``` 命名空间下。
+
+该数据包使用了Eliza的复刻版本，其原始代码源自 https://github.com/anthay/ELIZA/blob/master/src/eliza.cpp。
 
 # 使用方法
 ### 编译数据包
