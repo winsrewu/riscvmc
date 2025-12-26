@@ -19,7 +19,7 @@
 
 `app.mcfunction` 和 `decode_map.mcfunction` 文件位于 ```loader:app``` 和 ```loader:decode_map``` 命名空间下。
 
-该数据包使用了Eliza的复刻版本，其原始代码源自 https://github.com/anthay/ELIZA/blob/master/src/eliza.cpp。
+该数据包使用了Eliza的复刻版本，其原始代码源自 https://github.com/anthay/ELIZA/blob/master/src/eliza.cpp 。
 
 # 使用方法
 ### 编译数据包
