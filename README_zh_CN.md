@@ -1,5 +1,8 @@
 [English](README.md) | 简体中文 
 
+该项目已经废弃。我们有更好的!
+https://github.com/winsrewu/riscvmc2
+
 # riscvmc
 这是一个为 Minecraft 设计的 RISC-V 指令集模拟器数据包（Datapack）。  
 它支持完整的 RV32I 指令集，**但不包括 CSR 指令**。  
