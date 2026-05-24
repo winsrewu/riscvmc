@@ -1,6 +1,6 @@
 [English](README.md) | 简体中文 
 
-该项目已经废弃。我们有更好的!
+该项目已经废弃。我们有更好的!  
 https://github.com/winsrewu/riscvmc2
 
 # riscvmc
