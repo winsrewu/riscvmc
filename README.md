@@ -1,5 +1,9 @@
 English | [简体中文](README_zh_CN.md)  
 
+THIS PROJECT IS DEPRECATED.
+We have a better one!  
+https://github.com/winsrewu/riscvmc2
+
 # riscvmc
 This datapack provides a RISC-V emulator for Minecraft.
 It supports RV32I instruction sets, except for csr instructions.  
